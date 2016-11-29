@@ -1,2 +1,0 @@
-# Lexa
-Another one repository
